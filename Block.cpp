@@ -1,7 +1,7 @@
 #include <cstdint>
 #include <vector>
-#include "Block.h"
-#include "sha256.h"
+#include "Block.hpp"
+#include "sha256.hpp"
 #include <sstream>
 
 using namespace std;
